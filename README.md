@@ -1,12 +1,69 @@
-# React + Vite
+# Task Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and modern task management app built with React, Vite, and Tailwind CSS.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add, complete, and delete tasks
+- Persistent storage using local storage
+- Responsive design
+- Clean and minimal UI
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (v18 or newer recommended)
+- [pnpm](https://pnpm.io/) (or use npm/yarn)
+
+### Installation
+
+Clone the repository and install dependencies:
+
+```sh
+git clone https://github.com/Usernyagah/taskmanager.git
+cd taskmanager
+pnpm install
+```
+
+### Running Locally
+
+Start the development server:
+
+```sh
+pnpm dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) in your browser to view the app.
+
+### Building for Production
+
+```sh
+pnpm build
+```
+
+Preview the production build:
+
+```sh
+pnpm preview
+```
+
+## Screenshots
+
+### Home Page
+
+![Home Screenshot](src/assets/home.png)
+
+### Tasks Page
+
+![Tasks Screenshot](src/assets/tasks.png)
+
+
+## Live Demo
+
+The app is deployed on Vercel:  
+https://taskmanager-theta-ten.vercel.app/
+
+---
+
+© 2025 Task Manager. All rights reserved.
