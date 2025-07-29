@@ -57,7 +57,8 @@ pnpm preview
 
 ### Tasks Page
 
-_Add screenshot here_
+<img width="1360" height="634" alt="image" src="https://github.com/user-attachments/assets/68e29546-4910-4c9d-a117-bd1685daae64" />
+
 
 ## Live Demo
 
