@@ -52,7 +52,8 @@ pnpm preview
 
 ### Home Page
 
-_Add screenshot here_
+<img width="1360" height="634" alt="image" src="https://github.com/user-attachments/assets/f046fb0d-68e7-48a0-b35c-a8573fdf5b43" />
+
 
 ### Tasks Page
 
