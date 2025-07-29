@@ -1,6 +1,6 @@
 # Task Manager
 
-A simple and modern task management app built with React, Vite, and Tailwind CSS.
+A simple and modern task management app built with React, Vite, and Tailwind CSS for frontend. Express and Mongodb for backend.
 
 ## Features
 
